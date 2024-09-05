@@ -13,3 +13,18 @@ D:\Dot-Net Training Wirpo\Day-2\Day2\Mrng_Assignment\Assignment2\obj\Debug\net8.
 D:\Dot-Net Training Wirpo\Day-2\Day2\Mrng_Assignment\Assignment2\obj\Debug\net8.0\Assignment2.pdb
 D:\Dot-Net Training Wirpo\Day-2\Day2\Mrng_Assignment\Assignment2\obj\Debug\net8.0\Assignment2.genruntimeconfig.cache
 D:\Dot-Net Training Wirpo\Day-2\Day2\Mrng_Assignment\Assignment2\obj\Debug\net8.0\ref\Assignment2.dll
+C:\Assignments\Assignment2\bin\Debug\net8.0\Assignment2.exe
+C:\Assignments\Assignment2\bin\Debug\net8.0\Assignment2.deps.json
+C:\Assignments\Assignment2\bin\Debug\net8.0\Assignment2.runtimeconfig.json
+C:\Assignments\Assignment2\bin\Debug\net8.0\Assignment2.dll
+C:\Assignments\Assignment2\bin\Debug\net8.0\Assignment2.pdb
+C:\Assignments\Assignment2\obj\Debug\net8.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignments\Assignment2\obj\Debug\net8.0\Assignment2.AssemblyInfoInputs.cache
+C:\Assignments\Assignment2\obj\Debug\net8.0\Assignment2.AssemblyInfo.cs
+C:\Assignments\Assignment2\obj\Debug\net8.0\Assignment2.csproj.CoreCompileInputs.cache
+C:\Assignments\Assignment2\obj\Debug\net8.0\Assignment2.sourcelink.json
+C:\Assignments\Assignment2\obj\Debug\net8.0\Assignment2.dll
+C:\Assignments\Assignment2\obj\Debug\net8.0\refint\Assignment2.dll
+C:\Assignments\Assignment2\obj\Debug\net8.0\Assignment2.pdb
+C:\Assignments\Assignment2\obj\Debug\net8.0\Assignment2.genruntimeconfig.cache
+C:\Assignments\Assignment2\obj\Debug\net8.0\ref\Assignment2.dll
